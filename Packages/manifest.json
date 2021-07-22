@@ -1,0 +1,34 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Unity NuGet",
+      "url": "https://unitynuget-registry.azurewebsites.net",
+      "scopes": [
+        "org.nuget"
+      ]
+    },
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.burst": "1.6.0-pre.2",
+    "jp.keijiro.beta": "1.0.2",
+    "jp.keijiro.kino.post-processing": "2.1.15",
+    "jp.keijiro.klak.math": "1.0.3",
+    "jp.keijiro.klak.motion": "1.0.2",
+    "jp.keijiro.lasp": "2.1.4",
+    "jp.keijiro.laspvfx": "1.0.1",
+    "jp.keijiro.minis": "1.0.9",
+    "jp.keijiro.smrvfx": "1.1.6",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}
