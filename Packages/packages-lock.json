@@ -11,7 +11,7 @@
     },
     "com.unity.inputsystem": {
       "version": "1.1.0-pre.5",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
@@ -151,23 +151,6 @@
       "dependencies": {
         "org.nuget.system.memory": "4.5.3"
       },
-      "url": "https://registry.npmjs.com"
-    },
-    "jp.keijiro.minis": {
-      "version": "1.0.9",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "jp.keijiro.rtmidi": "1.0.3",
-        "com.unity.inputsystem": "1.0.1"
-      },
-      "url": "https://registry.npmjs.com"
-    },
-    "jp.keijiro.rtmidi": {
-      "version": "1.0.3",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.smrvfx": {
