@@ -2409,15 +2409,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 80137807-b397-46b4-b175-60bacbd7b18f
-      m_Path: '#(*Channel 0)/note038'
-      m_Interactions: 
-      m_Processors: 
-      m_Groups: 
-      m_Action: Trigger
-      m_Flags: 0
-    - m_Name: 
-      m_Id: 6c565ea4-f058-4b41-bb70-28e5dc3146fd
-      m_Path: '#(*Channel 0)/note039'
+      m_Path: <Keyboard>/8
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -2925,7 +2917,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1091081243}
-  - component: {fileID: 1091081245}
   m_Layer: 0
   m_Name: Track 1
   m_TagString: Untagged
@@ -2949,51 +2940,6 @@ Transform:
   m_Father: {fileID: 1120291597}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1091081245
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1091081242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2aaa4c4873e43a74fbd95bb9bced39c8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _tracker: {fileID: 452869581}
-  _threshold: 0
-  _delay: 0.4
-  _onEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2031262618}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-  _offEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2031262618}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!23 &1109510131 stripped
 MeshRenderer:
   m_CorrespondingSourceObject: {fileID: -7257649028417552336, guid: 91912a94d043f24419fd1a9ae0b609c6,
@@ -4179,23 +4125,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 80137807-b397-46b4-b175-60bacbd7b18f
-      m_Path: '#(*Channel 0)/note041'
-      m_Interactions: 
-      m_Processors: 
-      m_Groups: 
-      m_Action: Trigger
-      m_Flags: 0
-    - m_Name: 
-      m_Id: f6a8a4b3-d063-45f9-8137-176fbe3b3244
-      m_Path: '#(*Channel 0)/note045'
-      m_Interactions: 
-      m_Processors: 
-      m_Groups: 
-      m_Action: Trigger
-      m_Flags: 0
-    - m_Name: 
-      m_Id: 2192a059-34e3-4f7a-affc-28ade3ac19de
-      m_Path: '#(*Channel 0)/note048'
+      m_Path: <Keyboard>/9
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -4335,7 +4265,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 7d7d3980-cc18-46a9-9016-ce416bab7c5e
-      m_Path: '#(*Channel 1)/note038'
+      m_Path: <Keyboard>/i
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -4877,7 +4807,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 7d7d3980-cc18-46a9-9016-ce416bab7c5e
-      m_Path: '#(*Channel 1)/note036'
+      m_Path: <Keyboard>/u
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -4907,7 +4837,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1995715751}
-  - component: {fileID: 1995715752}
   m_Layer: 0
   m_Name: Track 2
   m_TagString: Untagged
@@ -4931,51 +4860,6 @@ Transform:
   m_Father: {fileID: 1120291597}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1995715752
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1995715750}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2aaa4c4873e43a74fbd95bb9bced39c8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _tracker: {fileID: 1518991182}
-  _threshold: 0
-  _delay: 0.4
-  _onEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 43819061}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-  _offEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 43819061}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!1 &2024192417
 GameObject:
   m_ObjectHideFlags: 0
@@ -5031,7 +4915,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 01caf575-fbb2-42da-9992-be5610d816b4
-      m_Path: '#(*Channel 0)/note036'
+      m_Path: <Keyboard>/7
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -5075,7 +4959,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: d750c771-322d-428f-b7e9-271aaa8487ab
-      m_Path: '#(*Channel 0)/note036'
+      m_Path: <Keyboard>/7
       m_Interactions: 
       m_Processors: 
       m_Groups: 
