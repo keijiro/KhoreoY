@@ -18,7 +18,6 @@
   "dependencies": {
     "com.unity.burst": "1.6.0-pre.2",
     "com.unity.inputsystem": "1.1.0-pre.5",
-    "jp.keijiro.beta": "1.0.2",
     "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.klak.math": "1.0.3",
     "jp.keijiro.klak.motion": "1.0.2",
