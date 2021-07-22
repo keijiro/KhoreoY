@@ -19,3 +19,6 @@ Desktop.ini
 /Recordings
 /UserSettings
 /Temp
+
+/Assets/Model/*.fbx
+/Assets/Model/*.tif
