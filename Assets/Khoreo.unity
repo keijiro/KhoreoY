@@ -1735,7 +1735,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.02972795, g: 0.704182, b: 0.929, a: 1}
-  m_Intensity: 795.7747
+  m_Intensity: 795.77466
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -3102,7 +3102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cc6a7b8b7d145949924441c5a9a29b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _deviceIndex: 1
+  _deviceIndex: 0
   _filterShader: {fileID: 4800000, guid: 77b3fc137f469d04d813ff07c8e8721e, type: 3}
   _threshold: 0.05
   _contrast: 0.8
@@ -5029,7 +5029,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9019608, g: 0.018941147, b: 0.30777922, a: 1}
-  m_Intensity: 795.7747
+  m_Intensity: 795.77466
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
